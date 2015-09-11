@@ -9,8 +9,8 @@ Gem::Specification.new do |gem|
   gem.authors          = ["Donovan Keme"]
   gem.email            = ["code@extremist.digital"]
 
-  gem.summary          = "URI-based CRUD endpoint routing"
-  gem.description      = "URI-based CRUD endpoint routing for Reel; supporting HTTP/S requests, Web Sockets, and Server Sent Events."
+  gem.summary          = "URI-based CRUD endpoint routing for Reel"
+  gem.description      = "Minimalist URI-based CRUD endpoint routing for Reel; supporting HTTP/S requests, Web Sockets, and Server Sent Events."
   gem.homepage         = "https://github.com/celluloid/reel-dsl"
 
   gem.files            = `git ls-files | grep -Ev '^example'`.split("\n")
