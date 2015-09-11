@@ -25,5 +25,6 @@ Influenced by [`Angelo`][angelo] and [`Sinatra`][sinatra]; mostly extracted from
 
 ## License
 
-Copyright (c) 2012 Donovan Keme. Distributed under the MIT License. See
-LICENSE.txt for further details.
+Copyright (c) 2012 Donovan Keme. Distributed under the MIT License.
+
+See [LICENSE.txt](https://github.com/celluloid/reel-dsl/blob/master/LICENSE.txt) for further details.
