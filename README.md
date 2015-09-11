@@ -6,7 +6,7 @@
 
 > Minimalist URI-based CRUD endpoint routing for [`Reel`][reel]; supporting HTTP/S requests, Web Sockets, and Server Sent Events.
 
-Influenced by [`Angelo`][angelo] and [`Sinatra`][sinatra], but mostly extracted from early versions of `^01E` when it was discontinued.
+Influenced by [`Angelo`][angelo] and [`Sinatra`][sinatra]; mostly extracted from `^01E` when it was discontinued.
 
 [reel]: https://github.com/celluloid/reel
 [angelo]: https://github.com/kenichi/angelo
