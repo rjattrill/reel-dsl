@@ -1,12 +1,11 @@
-## Minimalist [`Reel`][reel] CRUD/WS/SSE endpoint routing.
-
-> Supports URI-based HTTP/S requests, and Web Sockets & Server Sent Events via [`Reel::IO`][reel-io].
+# Reel::DSL
 
 [![Gem Version](https://badge.fury.io/rb/reel-dsl.svg)](http://rubygems.org/gems/reel-dsl)
 [![Build Status](https://secure.travis-ci.org/celluloid/reel-dsl.svg?branch=master)](http://travis-ci.org/celluloid/reel-dsl)
 [![Code Climate](https://codeclimate.com/github/celluloid/reel-dsl.svg)](https://codeclimate.com/github/celluloid/reel-dsl)
 [![Coverage Status](https://coveralls.io/repos/celluloid/reel-dsl/badge.svg?branch=master)](https://coveralls.io/r/celluloid/reel-dsl)
 
+Minimalist [`Reel`][reel] CRUD/WS/SSE endpoint routing. Supports URI-based HTTP/S requests, and Web Sockets & Server Sent Events via [`Reel::IO`][reel-io].
 Influenced by [`Angelo`][angelo] and [`Sinatra`][sinatra]; mostly extracted from `^01E` when it was discontinued.
 
 [reel]: https://github.com/celluloid/reel
