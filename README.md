@@ -1,6 +1,6 @@
-## Minimalist URI-based CRUD endpoint routing for [`Reel`][reel]
+## Minimalist [`Reel`][reel] CRUD/WS/SSE endpoint routing.
 
-> Supports HTTP/S requests, and Web Sockets & Server Sent Events via [`Reel::IO`][reel-io].
+> Supports URI-based HTTP/S requests, and Web Sockets & Server Sent Events via [`Reel::IO`][reel-io].
 
 [![Gem Version](https://badge.fury.io/rb/reel-dsl.svg)](http://rubygems.org/gems/reel-dsl)
 [![Build Status](https://secure.travis-ci.org/celluloid/reel-dsl.svg?branch=master)](http://travis-ci.org/celluloid/reel-dsl)
