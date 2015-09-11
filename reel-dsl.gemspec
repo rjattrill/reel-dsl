@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors          = ["Donovan Keme"]
   gem.email            = ["code@extremist.digital"]
 
-  gem.summary          = "URI-based CRUD endpoint routing for Reel"
+  gem.summary          = "Minimalist Reel-based CRUD/WS/SSE endpoint routing."
   gem.description      = "Minimalist URI-based CRUD endpoint routing for Reel; supporting HTTP/S requests, Web Sockets, and Server Sent Events."
   gem.homepage         = "https://github.com/celluloid/reel-dsl"
 
@@ -23,6 +23,8 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'reel-io', '~> 0.0.0.pre'
 
   gem.add_runtime_dependency 'tilt', '~> 2.0'
+  gem.add_runtime_dependency 'tilt-preload'
+  
   gem.add_runtime_dependency 'mime-types', '~> 2.4'
   
   gem.add_development_dependency "rake", "~> 10.4.2"
